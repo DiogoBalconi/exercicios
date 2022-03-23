@@ -5,6 +5,8 @@ if (pH < 7):
   print("Substância Ácida")
 elif (pH > 7):
   print("Substância Básica")
+elif (pH == 7):
+  print("Substância Neutra")
 
 
 #Medição de temperatura corporal 

@@ -21,4 +21,4 @@ elif (temperatura >= 37.6):
 elif (temperatura >= 36):
   print("Você está Normal")
 else:
-  print("Você está com Hipoterma")
+  print("Você está com Hipotermia")
